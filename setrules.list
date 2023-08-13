@@ -1,9 +1,6 @@
 #直连
-- DOMAIN-SUFFIX,cdeledu.com,DIRECT
-- DOMAIN-SUFFIX,qianxueyunke.com,DIRECT
-- DOMAIN-SUFFIX,ruidaedu.com,DIRECT
-- DOMAIN-SUFFIX,dapenti.com,DIRECT
-- DOMAIN-SUFFIX,szbdyd.com,DIRECT
-
-#代理
-- DOMAIN-SUFFIX,amyconvert.com,🚀 节点选择
+- DOMAIN-SUFFIX,cdeledu.com
+- DOMAIN-SUFFIX,qianxueyunke.com,
+- DOMAIN-SUFFIX,ruidaedu.com
+- DOMAIN-SUFFIX,dapenti.com
+- DOMAIN-SUFFIX,szbdyd.com
