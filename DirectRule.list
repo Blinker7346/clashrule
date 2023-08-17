@@ -5,24 +5,6 @@ DOMAIN-SUFFIX,cdeledu.com
 DOMAIN-SUFFIX,qianxueyunke.com
 DOMAIN-SUFFIX,ruidaedu.com
 
-# 内容：SteamCN
-DOMAIN,csgo.wmsj.cn
-DOMAIN,dl.steam.clngaa.com
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,dota2.wmsj.cn
-DOMAIN,st.dl.bscstorage.net
-DOMAIN,st.dl.eccdnx.com
-DOMAIN,st.dl.pinyuncloud.com
-DOMAIN,steampipe.steamcontent.tnkjmec.com
-DOMAIN,steampowered.com.8686c.com
-DOMAIN,steamstatic.com.8686c.com
-DOMAIN,wmsjsteam.com
-DOMAIN,xz.pphimalayanrt.com
-DOMAIN-SUFFIX,cm.steampowered.com
-DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamusercontent.com
-
 #悠悠有品
 DOMAIN-SUFFIX,youpin898.com
 DOMAIN-SUFFIX,youpinimg.com
@@ -79,7 +61,6 @@ IP-CIDR,205.180.175.0/24,no-resolve
 #其他
 DOMAIN-SUFFIX,dapenti.com
 DOMAIN-SUFFIX,pinkf.asuscomm.com
-DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,5eplay.com
 DOMAIN-SUFFIX,wmpvp.com
 DOMAIN-SUFFIX,wanmei.com
