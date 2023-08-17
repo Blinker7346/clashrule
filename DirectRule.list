@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,pinkf.asuscomm.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,xitongo.com
 DOMAIN-SUFFIX,gopojie.com
+DOMAIN-SUFFIX,acl4.ssr
 #router
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
