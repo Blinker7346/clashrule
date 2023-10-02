@@ -25,3 +25,5 @@ DOMAIN,wmsjsteam.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
+
+IP-CIDR,199.193.124.0/22,no-resolve
