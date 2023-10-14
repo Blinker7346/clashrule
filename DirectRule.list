@@ -28,3 +28,7 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamusercontent.com
 
 IP-CIDR,199.193.124.187/32,no-resolve
+
+
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
