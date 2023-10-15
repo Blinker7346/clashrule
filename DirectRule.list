@@ -28,4 +28,5 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamusercontent.com
 
 IP-CIDR,199.193.124.187/32,no-resolve
+IP-CIDR,45.78.48.121/32,no-resolve
 
