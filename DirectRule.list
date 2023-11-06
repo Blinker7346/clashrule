@@ -27,8 +27,11 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamusercontent.com
 
-IP-CIDR,64.64.252.206/32,no-resolve
+IP-CIDR,64.64.227.151/32,no-resolve
 IP-CIDR,202.81.230.25/32,no-resolve
+IP-CIDR,45.78.48.121/32,no-resolve
+
+
 
 
 
