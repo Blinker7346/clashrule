@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,xitongo.com
 DOMAIN-SUFFIX,gopojie.com
 DOMAIN-SUFFIX,osiris101.com
-DOMAIN-SUFFIX,jsdelivr.com
 
 # 内容：SteamCN
 DOMAIN,csgo.wmsj.cn
@@ -28,8 +27,7 @@ DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamusercontent.com
 
 IP-CIDR,64.64.227.151/32,no-resolve
-IP-CIDR,202.81.230.25/32,no-resolve
-IP-CIDR,45.78.48.121/32,no-resolve
+
 
 
 
